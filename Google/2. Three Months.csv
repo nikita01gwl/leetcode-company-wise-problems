@@ -1,5 +1,5 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics,Notes
-EASY,Two Sum,100.0,0.00580095238786551,https://leetcode.com/problems/two-sum,"Array, Hash Table", "If it asks for the index, then use map otherwise use set"
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.00580095238786551,https://leetcode.com/problems/two-sum,"Array, Hash Table. If it asks for the index, then use map otherwise use set"
 MEDIUM,Add Two Numbers,75.5,0.0049133031989980576,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
 EASY,Palindrome Number,73.0,0.006087452653515256,https://leetcode.com/problems/palindrome-number,Math
 MEDIUM,3Sum,70.1,0.003969310706550047,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
